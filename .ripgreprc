@@ -1,0 +1,15 @@
+# This config file is only read by `rg` if it is pointed to by the env variable `$RIPGREP_CONFIG_PATH`
+# See https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md#configuration-file
+
+# Eliminate errorbarf from .gigignore parsing
+# See https://github.com/BurntSushi/ripgrep/issues/945
+--no-ignore-messages
+
+# Options suggested on `rg` Github page:
+# See https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md#configuration-file
+--max-columns=150
+# This one doesn't seem to be supported anymore...
+# --max-columns-preview
+--smart-case
+
+# Note that colors are handled with a shell alias, because there may be situations in which colorless results are desirable

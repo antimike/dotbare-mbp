@@ -1,0 +1,7 @@
+images:
+  backend: kitty
+eval:
+  python:
+    command: ipython
+    fragment: true
+    replace: false

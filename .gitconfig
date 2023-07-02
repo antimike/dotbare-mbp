@@ -1,0 +1,41 @@
+[init]
+	defaultBranch = main
+[user]
+	email = antihaynes@gmail.com
+	name = Michael Haynes
+	signingkey = AEB43E83657EFBEDB5D61B2862716B9F210A3233
+[alias]
+        stag = "!id=`git rev-parse --verify HEAD`; git tag -s Mike_${id:0:8} -m \"Tag for commit $id\""
+        vtag = !git tag -v `git describe`
+        difft = difftool difftastic
+[merge]
+	tool = diffconflicts
+[hub]
+	protocol = ssh
+[mergetool "diffconflicts"]
+	cmd = nvr -s -c DiffConflicts \"$MERGED\" \"$BASE\" \"$LOCAL\" \"$REMOTE\"
+        trustExitCode = true
+[mergetool]
+	keepBackup = false
+[diff]
+        tool = delta
+[difftool]
+        prompt = true
+[difftool "delta"]
+        cmd = delta \"$LOCAL\" \"$REMOTE\"
+[difftool "difftastic"]
+        cmd = difft \"$LOCAL\" \"$REMOTE\"
+[commit]
+	gpgSign = false
+[tag]
+	gpgSign = true
+[core]
+	editor = nvr --remote-wait-silent
+	pager = bat
+[pager]
+        difftool = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
