@@ -1,0 +1,4 @@
+pass-tomb : git clone https://github.com/roddhjav/pass-tomb/ && cd pass-tomb && sudo make install
+pass-update : git clone https://github.com/roddhjav/pass-update/ && cd pass-update && sudo make install
+pass-tailedit : git clone https://github.com/palortoff/pass-extension-tail && cd pass-extension-tail && make install
+git-issue : git clone https://github.com/dspinellis/git-issue && cd git-issue && sudo make install : CLI for issue tracking in git : REQUIRES=( jq curl )

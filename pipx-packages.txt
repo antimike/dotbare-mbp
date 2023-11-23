@@ -1,0 +1,204 @@
+venvs are in /home/hactar/.local/pipx/venvs
+apps are exposed on your $PATH at /home/hactar/.local/bin
+   package archivebox 0.6.2, installed using Python 3.11.2
+    - archivebox
+   package archivy 1.7.4, installed using Python 3.11.2
+    - archivy
+   package beakerx 2.3.13, installed using Python 3.11.2
+    - beakerx
+   package beautysh 6.2.1, installed using Python 3.11.2
+    - beautysh
+   package beets 1.6.0, installed using Python 3.11.2
+    - beet
+   package choosealicense-cli 1.1.0, installed using Python 3.11.2
+    - license
+   package chs 3.0.0, installed using Python 3.11.2
+    - chs
+   package classifier 2.0, installed using Python 3.11.2
+    - classifier
+   package colorz 1.0.3, installed using Python 3.11.2
+    - colorz
+   package cookiecutter 2.1.1, installed using Python 3.11.2
+    - cookiecutter
+   package docformatter 1.5.1, installed using Python 3.11.2
+    - docformatter
+   package eg 1.2.2, installed using Python 3.11.2
+    - eg
+   package etm-dgraham 4.11.8, installed using Python 3.11.2
+    - etm
+    - etm+
+   package euporie 2.3.2, installed using Python 3.11.2
+    - euporie
+    - euporie-console
+    - euporie-hub
+    - euporie-notebook
+    - euporie-preview
+   package galileo 0.5.1, installed using Python 3.11.2
+    - galileo
+   package gdom 1.0.0, installed using Python 3.11.2
+    - gdom
+   package glances 3.3.1.1, installed using Python 3.11.2
+    - glances
+   package gron 1.3.0, installed using Python 3.11.2
+    - gron
+   package howdoi 2.0.20, installed using Python 3.11.2
+    - howdoi
+   package hq 0.0.4, installed using Python 3.11.2
+    - hq
+   package html2text 2020.1.16, installed using Python 3.11.2
+    - html2text
+   package i3altlayout 1.1.2, installed using Python 3.11.2
+    - i3altlayout
+   package ilua 0.2.1, installed using Python 3.11.2
+    - ilua
+   package imagescraper 2.0.7, installed using Python 3.11.2
+    - image-scraper
+   package ipdb 0.13.13, installed using Python 3.11.2
+    - ipdb3
+   package jello 1.5.5, installed using Python 3.11.2
+    - jello
+   package jrnl 3.3, installed using Python 3.11.2
+    - jrnl
+   package jupyter-console 6.6.3, installed using Python 3.11.2
+    - jupyter-console
+   package kb-manager 0.1.7, installed using Python 3.11.2
+    - kb
+   package kitti3 0.4.1, installed using Python 3.11.2
+    - kitti3
+   package markdowntools 1.0.1, installed using Python 3.11.2
+    - mdmerge
+   package mdv 1.7.4, installed using Python 3.11.2
+    - mdv
+   package meta-package-manager 5.12.0, installed using Python 3.11.2
+    - mpm
+   package moviemon 1.0.11, installed using Python 3.11.2
+    - moviemon
+   package mps-youtube 0.2.8, installed using Python 3.11.2
+    - mpsyt
+   package myst-parser 1.0.0, installed using Python 3.11.2
+    - myst-anchors
+    - myst-docutils-demo
+    - myst-docutils-html
+    - myst-docutils-html5
+    - myst-docutils-latex
+    - myst-docutils-pseudoxml
+    - myst-docutils-xml
+    - myst-inv
+   package nbterm 0.0.13, installed using Python 3.11.2
+    - nbterm
+   package ncmpy 1.5.7, installed using Python 3.11.2
+    - ncmpy
+   package neovim-remote 2.5.1, installed using Python 3.11.2
+    - nvr
+   package papis 0.12, installed using Python 3.11.2
+    - papis
+   package pawk 0.8.1, installed using Python 3.11.2
+    - pawk
+   package pre-commit 3.2.1, installed using Python 3.11.2
+    - pre-commit
+   package promnesia 1.1.20230129, installed using Python 3.11.2
+    - promnesia
+   package ptpython 3.0.23, installed using Python 3.11.2
+    - ptipython
+    - ptipython3
+    - ptipython3.9
+    - ptpython
+    - ptpython3
+    - ptpython3.9
+   package pudb 2022.1.3, installed using Python 3.11.2
+    - pudb
+   package pulsemixer 1.5.1, installed using Python 3.11.2
+    - pulsemixer
+   package pycodestyle 2.10.0, installed using Python 3.11.2
+    - pycodestyle
+   package pyfunky 3.5.5, installed using Python 3.11.2
+    - funky
+   package pyscaffold 4.5, installed using Python 3.11.2
+    - putup
+   package pywal 3.3.0, installed using Python 3.11.2
+    - wal
+   package radian 0.6.4, installed using Python 3.11.2
+    - radian
+   package remarshal 0.14.0, installed using Python 3.11.2
+    - cbor2cbor
+    - cbor2json
+    - cbor2msgpack
+    - cbor2toml
+    - cbor2yaml
+    - json2cbor
+    - json2json
+    - json2msgpack
+    - json2toml
+    - json2yaml
+    - msgpack2cbor
+    - msgpack2json
+    - msgpack2msgpack
+    - msgpack2toml
+    - msgpack2yaml
+    - remarshal
+    - toml2cbor
+    - toml2json
+    - toml2msgpack
+    - toml2toml
+    - toml2yaml
+    - yaml2cbor
+    - yaml2json
+    - yaml2msgpack
+    - yaml2toml
+    - yaml2yaml
+   package rnr 1.0.10, installed using Python 3.11.2
+    - rnr
+    - rnrview
+   package scapy 2.5.0, installed using Python 3.11.2
+    - scapy
+   package scidownl 1.0.0, installed using Python 3.11.2
+    - scidownl
+   package semgrep 1.15.0, installed using Python 3.11.2
+    - semgrep
+   package shell-functools 0.3.0, installed using Python 3.11.2
+    - filter
+    - foldl
+    - foldl1
+    - ft-functions
+    - map
+    - sort_by
+    - take_while
+   package sqlitebiter 0.36.1, installed using Python 3.11.2
+    - sqlitebiter
+   package tabview 1.4.4, installed using Python 3.11.2
+    - tabview
+   package td-cli 2.0.3, installed using Python 3.11.2
+    - td
+   package td-watson 2.1.0, installed using Python 3.11.2
+    - watson
+   package twtxt 1.3.1, installed using Python 3.11.2
+    - twtxt
+   package vizex 2.1.0, installed using Python 3.11.2
+    - vizex
+    - vizexdf
+    - vizextree
+   package vprof 0.38, installed using Python 3.11.2
+    - vprof
+   package wloc 1.0.1, installed using Python 3.11.2
+    - wloc
+   package wpull 2.0.1, installed using Python 3.11.2
+    - wpull
+    - wpull3
+   package yamlpath 3.7.0, installed using Python 3.11.2
+    - eyaml-rotate-keys
+    - yaml-diff
+    - yaml-get
+    - yaml-merge
+    - yaml-paths
+    - yaml-set
+    - yaml-validate
+   package ydiff 1.2, installed using Python 3.11.2
+    - ydiff
+   package you-get 0.4.1650, installed using Python 3.11.2
+    - you-get
+   package youtube-dl 2021.12.17, installed using Python 3.11.2
+    - youtube-dl
+   package yq 3.1.1, installed using Python 3.11.2
+    - tomlq
+    - xq
+    - yq

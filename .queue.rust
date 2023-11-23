@@ -1,0 +1,3 @@
+fselect : cargo install fselect
+navi : cargo install navi : Cheatsheet utility with shell widget
+tre : cargo install tre-command : Modern alternative to `tree`

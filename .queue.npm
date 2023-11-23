@@ -1,0 +1,3 @@
+fx : sudo npm install -g fx : CLI JSON utilities and viewer
+lexis-cli : sudo npm install -g lexis-cli : Word counting made easy
+whereami : npm install -g @rafaelrinaldi/whereami : Get your current geolocation
